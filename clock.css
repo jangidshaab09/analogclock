@@ -3,6 +3,9 @@
   padding: 0px;
   box-sizing: border-box;
 }
+.clock{
+  justify-content: center;
+}
  .arrow{
   position: relative;
   background-color: black;
