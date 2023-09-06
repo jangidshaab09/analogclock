@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+ .arrow{
+  position: relative;
+  background-color: black;
+  height: 150px;
+  width: 10px;
+  left: 220px;
+  top: -370px;
+}
+.arrow2{
+  position: relative;
+  background-color: black;
+  height: 10px;
+  width: 150px;
+  left: px;
+  top: 150px;
+} 
